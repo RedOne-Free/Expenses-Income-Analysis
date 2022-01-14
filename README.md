@@ -1,5 +1,5 @@
 # Expenses-Income-Analysis
-This project consists of analyzing the Expenses and Income of 6 projects in both Microsoft Excel and Power BI.
+This project consists of analyzing the Expenses and Income of 6 projects in Microsoft Excel, Power BI and Google Data Studio.
 
 There are a total of 5 slides in which there are tables and/or graphs, there are also sliecers to perform personalized filters. Slides are :
 
